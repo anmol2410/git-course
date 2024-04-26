@@ -5,3 +5,5 @@ hello my name is anmol.
 new avatar feature added
 
 hey whats'up
+
+new text can be added easy..
